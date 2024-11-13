@@ -73,10 +73,11 @@ python app.py
 
 ## 👥 Team
 
-- [Smruti Patil](https://github.com/SmrutiPatil) - Team Lead
-- [Mandar Dighe](https://github.com/Mandy767) 
-- [Ratnesh Kherudkar](https://github.com/r4tnx) 
 - [Jahnavi Enduri](https://github.com/endurijahnavi)
+- [Smruti Patil](https://github.com/SmrutiPatil)
+- [Mandar Dighe](https://github.com/Mandy767) 
+- [Ratnesh Kherudkar](https://github.com/r4tnx)
+
 
 
 
